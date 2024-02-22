@@ -19,4 +19,5 @@ fn greeting(greet: &str, name: &str) {
 
 fn add(n1: i32, n2: i32) -> i32 {
   n1 + n2
+  // We dont use a semicolon here, note. Telling us that's what we want to return
 }
